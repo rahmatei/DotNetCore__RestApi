@@ -1,0 +1,14 @@
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\bin\Debug\net6.0\RestSample.Model.deps.json
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\bin\Debug\net6.0\RestSample.Model.runtimeconfig.json
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\bin\Debug\net6.0\RestSample.Model.dll
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\bin\Debug\net6.0\RestSample.Model.pdb
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\obj\Debug\net6.0\RestSample.Model.csproj.AssemblyReference.cache
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\obj\Debug\net6.0\RestSample.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\obj\Debug\net6.0\RestSample.Model.AssemblyInfoInputs.cache
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\obj\Debug\net6.0\RestSample.Model.AssemblyInfo.cs
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\obj\Debug\net6.0\RestSample.Model.csproj.CoreCompileInputs.cache
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\obj\Debug\net6.0\RestSample.Model.dll
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\obj\Debug\net6.0\refint\RestSample.Model.dll
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\obj\Debug\net6.0\RestSample.Model.pdb
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\obj\Debug\net6.0\RestSample.Model.genruntimeconfig.cache
+E:\Learn Vs\dotnetCore\RestSample.Model\RestSample.Model\obj\Debug\net6.0\ref\RestSample.Model.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "agng7zXP0C3KF7+WqYRxGA228crAqAT/TVNc+1Pz+Ns=",
+  "Source": "RestSample.MinimalApi",
+  "BasePath": "_content/RestSample.MinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

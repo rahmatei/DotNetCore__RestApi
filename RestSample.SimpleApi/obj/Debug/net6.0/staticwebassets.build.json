@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0EyyRKDaEv+XKU4dEq5ykERA/t5rBMP+8dpvvjrA/xc=",
+  "Source": "RestSample.SimpleApi",
+  "BasePath": "_content/RestSample.SimpleApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
