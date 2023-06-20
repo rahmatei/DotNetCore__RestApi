@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn Vs\\dotnetCore\\RestSample.Model\\RestSample.Model\\RestSample.Model.csproj": {}
+    "K:\\Me\\RestApi\\RestSample.Model\\RestSample.Model.csproj": {}
   },
   "projects": {
-    "E:\\Learn Vs\\dotnetCore\\RestSample.Model\\RestSample.Model\\RestSample.Model.csproj": {
+    "K:\\Me\\RestApi\\RestSample.Model\\RestSample.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn Vs\\dotnetCore\\RestSample.Model\\RestSample.Model\\RestSample.Model.csproj",
+        "projectUniqueName": "K:\\Me\\RestApi\\RestSample.Model\\RestSample.Model.csproj",
         "projectName": "RestSample.Model",
-        "projectPath": "E:\\Learn Vs\\dotnetCore\\RestSample.Model\\RestSample.Model\\RestSample.Model.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn Vs\\dotnetCore\\RestSample.Model\\RestSample.Model\\obj\\",
+        "projectPath": "K:\\Me\\RestApi\\RestSample.Model\\RestSample.Model.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "K:\\Me\\RestApi\\RestSample.Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
