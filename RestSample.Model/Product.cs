@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 
 namespace RestSample.Model
 {
@@ -12,6 +13,7 @@ namespace RestSample.Model
         public int Price { get; set; }
 
         public int BrandId { get; set; }
+
         public Brand Brand { get; set; }
 
     }

@@ -28,7 +28,12 @@ namespace RestSampleCtrlSamples.Controllers
         [HttpGet]
         public async Task<ActionResult> GetAllProducts([FromServices] ProductDbContext _dbContext)
         {
-            var products = await _dbContext.Products.ToListAsync();
+            var products= await _dbContext.Products.ToListAsync();
+            //var products = await _dbContext.Products.Include(c=>c.Brand).ToListAsync();
+           // foreach (var item in products)
+            //{
+            //    item.Brand.Products = null;
+            //}
             return Ok(products);
         }
 

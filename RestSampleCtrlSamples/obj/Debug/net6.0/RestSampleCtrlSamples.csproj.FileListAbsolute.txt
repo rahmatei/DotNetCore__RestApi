@@ -140,3 +140,7 @@ K:\Me\RestApi\RestSampleCtrlSamples\obj\Debug\net6.0\scopedcss\bundle\RestSample
 K:\Me\RestApi\RestSampleCtrlSamples\obj\Debug\net6.0\RestSampleCtrlSamples.csproj.CopyComplete
 K:\Me\RestApi\RestSampleCtrlSamples\obj\Debug\net6.0\RestSampleCtrlSamples.genruntimeconfig.cache
 K:\Me\RestApi\RestSampleCtrlSamples\obj\Debug\net6.0\ref\RestSampleCtrlSamples.dll
+K:\Me\RestApi\RestSampleCtrlSamples\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+K:\Me\RestApi\RestSampleCtrlSamples\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+K:\Me\RestApi\RestSampleCtrlSamples\bin\Debug\net6.0\Newtonsoft.Json.dll
+K:\Me\RestApi\RestSampleCtrlSamples\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
