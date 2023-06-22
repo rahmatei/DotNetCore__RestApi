@@ -7,6 +7,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers().AddNewtonsoftJson(option =>
 {
     option.SerializerSettings.NullValueHandling = Newtonsoft.Json.NullValueHandling.Ignore;
+}).AddXmlDataContractSerializerFormatters().AddMvcOptions(options =>
+{
+    options.RespectBrowserAcceptHeader = true;
+    options.ReturnHttpNotAcceptable = true;
 });
 
 //builder.Services.AddControllers(options =>

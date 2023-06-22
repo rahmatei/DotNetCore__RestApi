@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using RestSample.Model;
@@ -65,6 +66,20 @@ namespace RestSampleCtrlSamples.Controllers
         {
             return Redirect("http://google.com");
         }
+
+        [HttpPatch("AddToPatch/{id}")]
+        public async Task<Product> PatchSupplier (int id ,[FromBody] JsonPatchDocument<Product> pathDoc)
+        {
+            Product s = await _dbContext.Products.SingleOrDefaultAsync(p => p.Id == id);
+            if (s != null)
+            {
+                pathDoc.ApplyTo(s);
+                await _dbContext.SaveChangesAsync();
+            }
+            return s;
+        }
+
+        
 
     }
 }
